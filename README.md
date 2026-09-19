@@ -28,8 +28,6 @@ Analytically driven with a strong interest in data, finance, and solving real-wo
 
 ### 🛠️ Tech Stack & Tools
 
-
-
 **Programming Languages**
 
 <p>
@@ -38,41 +36,51 @@ Analytically driven with a strong interest in data, finance, and solving real-wo
 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </p>
 
-
-
-**Machine Learning & Data Science**
+**Data Analysis & Visualization**
 
 <p>
-
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/XGBoost-172B4D?style=flat-square&logo=xgboost&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 
 </p>
 
+**Machine Learning & Data Science** <p> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-172B4D?style=flat-square&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" /> </p>
 
-
-**Tools & Frameworks**
+**Databases & Analytics**
 
 <p>
 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Power%20Query-742774?style=flat-square&logo=powerbi&logoColor=white" />
+
+</p>
+
+**Tools & Development**
+
+<p>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 </p>
 
@@ -89,15 +97,11 @@ Analytically driven with a strong interest in data, finance, and solving real-wo
 
 ---
 
-### ⚡ Ongoing Projects
+> **📊 [Customer Churn Analysis Dashboard](https://github.com/abhijeet-raj-001)**  
+>Built an end-to-end customer churn analytics pipeline transforming raw Excel data into actionable insights through Python-based data cleaning, SQL analysis, and an interactive Power BI dashboard.
+>Tech: Python, Pandas, NumPy, MySQL, SQL, Power BI, DAX
+>Impact: Engineered customer value, tenure, revenue, and churn features to analyze retention patterns across contracts, subscriptions, geography, payment methods, and customer segments.
 
-> **🗳️ [Election Intelligence Dashboard](https://github.com/abhijeet-raj-001)**  
-> Developing an interactive dashboard to unify fragmented public election data, transforming it into accessible, data-driven insights.  
-> - **Tech:** Python, Streamlit, Scikit-learn, Pandas  
-> - **Impact:** Integrating historical election analytics, manifesto comparisons, and ML pipelines to forecast potential voting trends.  
-
-
----
 
 ### 📈 GitHub Analytics
 
